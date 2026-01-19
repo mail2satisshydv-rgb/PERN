@@ -1,0 +1,1 @@
+ALTER TABLE "cars" ADD COLUMN "price_per_day" numeric(10, 2) NOT NULL;
